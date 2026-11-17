@@ -1,0 +1,4 @@
+class Solution:
+    def sequence(self, n: int) -> int:
+        # code here
+        
