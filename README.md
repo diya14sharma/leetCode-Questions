@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/diya14sharma/leetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/diya14sharma/leetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/diya14sharma/leetCode-Questions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/diya14sharma/leetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/diya14sharma/leetCode-Questions/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/diya14sharma/leetCode-Questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
